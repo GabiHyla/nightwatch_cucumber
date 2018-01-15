@@ -1,0 +1,26 @@
+{
+  "name": "project_template",
+  "version": "1.0.0",
+  "description": "This is a demo project created to aid familiarity with nightwatch-cucumber",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxharding4/template.git"
+  },
+  "author": "Max Harding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxharding4/template/issues"
+  },
+  "homepage": "https://github.com/maxharding4/template#readme",
+  "devDependencies": {
+    "cucumber": "^3.2.1",
+    "cucumber-html-reporter": "^3.0.4",
+    "nightwatch": "^0.9.19",
+    "nightwatch-cucumber": "^8.2.14",
+    "selenium-download": "^2.0.11"
+  }
+}
