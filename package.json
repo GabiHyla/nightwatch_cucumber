@@ -4,7 +4,7 @@
   "description": "This is a demo project created to aid familiarity with nightwatch-cucumber",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "nightwatch"
   },
   "repository": {
     "type": "git",
