@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maxharding4/template.git"
+    "url": "git+https://github.com/GabiHyla/nightwatch_cucumber"
   },
   "author": "Max Harding",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/maxharding4/template/issues"
+    "url": "https://github.com/GabiHyla/nightwatch_cucumber/issues"
   },
-  "homepage": "https://github.com/maxharding4/template#readme",
+  "homepage": "https://github.com/GabiHyla/nightwatch_cucumber#readme",
   "devDependencies": {
     "cucumber": "^3.2.1",
     "cucumber-html-reporter": "^3.0.4",
